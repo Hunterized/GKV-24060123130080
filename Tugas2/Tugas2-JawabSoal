@@ -1,0 +1,18 @@
+1.  Jelaskan Bagaimana cara kerja Kode Lengan di atas!
+
+=>  Kode LenganBergerak diatas mengendalikan Pundak, sikut, telapak tangan, serta jari-jari dari sebuah tangan robotik(?) buatan.
+    Kode menginisialisasi nilai rotasi dari masing-masing titik rotasi. Kemudian pada fungsi Display() menggunakan glTranslatef() 
+    untuk mentranslasi dan glRotatef() untuk merotasi sebelum membuat segment bagian lengan berbentuk balok dengan glutWireCube() 
+    dan glScalef(). Setiap titik rotasi juga diatur sumbu mana rotasi dilakukan pada glRotatef((GLfloat) ...). Untuk setiap jari 
+    (selain thumb), dibuat fungsi drawFinger untuk membantu menggambar segment-segmentnya pada display(). 
+    Setelah itu, setiap titik rotasi juga di assign/bind terhadap key pada keyboard untuk merotasi.
+
+2.  Tambahkanlah telapak tangan beserta jari-jari dari lengan di atas. Telapak tangan dan jari-jari tersebut bisa digerakan 
+    menggunakan keyboard!
+
+=>  (Done! View code)
+
+3.  Simulasikan menggunakan sumbu x,y,z bagaimana operasi yang dilakukan ketika keyboard di ketik.
+
+=>  Semua titik rotasi, kecuali segment pertama 'thumb' (thumb1) dirotasi terhadap sumbu-Z. Untuk thumb1 dirotasi terhadap sumbu-Y
+    (Hasil contoh 3 Screenshots ada di file Tugas2 bersamaan dengan file ini.
