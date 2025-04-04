@@ -3,7 +3,7 @@ Pengumpulan Tugas PRAKTIKUM GKV - Dimas A: IF 23
 
 Hasil Running Tugas 4-1: Image Loader:
 
-![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/09b75ca2cb4735cd44f05d36f02130fe1f6084d0/Tugas4-1/Hasil%20Running%20imageloader.png)
+![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/27b80d9cfaa7581f33a8fdb3e2a18b1e8ccde744/Tugas4-1/Hasil%20Running%20file%20imageloader.png)
 
 Hasil Running Tugas 4-2: Proyeksi Bayangan:
 
