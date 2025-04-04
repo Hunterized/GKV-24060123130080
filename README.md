@@ -1,12 +1,11 @@
 # GKV-24060123130080
 Pengumpulan Tugas PRAKTIKUM GKV - Dimas A: IF 23
 
-Hasil Running Tugas 3: Kamera:
+Hasil Running Tugas 4-1: Image Loader:
 
-![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/0d88fed41e8c1ef166b72ced1897f4a97671b24b/Tugas3/CarView1.png)
+![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/09b75ca2cb4735cd44f05d36f02130fe1f6084d0/Tugas4-1/Hasil%20Running%20imageloader.png)
 
+Hasil Running Tugas 4-2: Proyeksi Bayangan:
 
-![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/0d88fed41e8c1ef166b72ced1897f4a97671b24b/Tugas3/CarView2.png)
+![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/09b75ca2cb4735cd44f05d36f02130fe1f6084d0/Tugas4-2/Hasil%20Running%20Projeksi%20Bayangan.png)
 
-
-![image alt](https://github.com/Hunterized/GKV-24060123130080/blob/0d88fed41e8c1ef166b72ced1897f4a97671b24b/Tugas3/CarView3.png)
